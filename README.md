@@ -39,3 +39,7 @@ Permite realizar depósitos, saques e visualizar o extrato, respeitando regras d
   🛠️ Tecnologias utilizadas
 
   Python 3.x
+
+  ✍️ Autor
+
+Desenvolvido por LehMoraes08
