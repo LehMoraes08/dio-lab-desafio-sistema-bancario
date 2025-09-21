@@ -15,19 +15,25 @@ Permite realizar depósitos, saques e visualizar o extrato, respeitando regras d
 💰 Depósito
 
   Aceita apenas valores positivos.
+  
   Registra cada operação no extrato.
 
 🏧 Saque
 
   Máximo de 3 saques diários.
+  
   Limite de R$ 500,00 por saque.
+  
   Impede retiradas acima do saldo.
+  
   Registra cada saque no extrato.
 
 📜 Extrato
 
   Lista todas as movimentações (depósitos e saques).
+  
   Mostra o saldo atual no final.
+  
   Exibe mensagem caso não haja movimentações.
 
   🛠️ Tecnologias utilizadas
